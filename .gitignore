@@ -1,0 +1,8 @@
+# Ignorar archivos compilados (.class)
+*.class
+
+# Ignorar copias de seguridad
+*.bak
+
+# Ignorar (.txt)
+*.txt
